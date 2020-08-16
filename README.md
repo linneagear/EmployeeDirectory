@@ -1,6 +1,6 @@
 # Unit 19 React Homework: Employee Directory
 
-[See this link for original commits, ran into errors when deploying previous repo]()
+[See this link for original commits, ran into errors when deploying previous repo](https://github.com/linneagear/React_EmployeeDirectory)
 ## Overview
 
 This application is an employee directory that uses React. 
@@ -29,7 +29,7 @@ Run `npm install` first, then `npm start` to run the app in the development mode
 
 The page will reload if you make edits.
 
-Find deployed link [here]().
+Find deployed link [here](https://wizardly-yonath-79f8ec.netlify.app/).
 
 ## Usage
 
