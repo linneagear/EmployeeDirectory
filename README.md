@@ -34,9 +34,11 @@ Find deployed link [here](https://wizardly-yonath-79f8ec.netlify.app/).
 ## Usage
 
 User is given a set of employees that they are then able to sort by phone number:
+
 ![Sort Option](./public/images/sort.JPG)
 
 Or scroll down to enter a search value:
+
 ![Search Option](./public/images/search.JPG)
 
 ## Issues
