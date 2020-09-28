@@ -1,7 +1,6 @@
 # Unit 19 React Homework: Employee Directory
 
 [See this link for original commits, ran into errors when deploying previous repo](https://github.com/linneagear/React_EmployeeDirectory)
-
 ## Overview
 
 This application is an employee directory that uses React. 
@@ -35,9 +34,11 @@ Find deployed link [here](youremployees.netlify.app).
 ## Usage
 
 User is given a set of employees that they are then able to sort by phone number:
+
 ![Sort Option](./public/images/sort.JPG)
 
 Or scroll down to enter a search value:
+
 ![Search Option](./public/images/search.JPG)
 
 ## Issues
